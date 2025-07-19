@@ -6,7 +6,7 @@ from aiogram.utils import executor
 from cartooner import cartoonize
 from animegan import apply_anime_style
 
-bot = Bot(token=os.getenv("BOT_TOKEN"))
+bot = Bot(token=os.getenv("AAFKlFxnALsn_2Mj3SE3vS1qJHvVU1KQMYg"))
 dp = Dispatcher(bot)
 users = {}
 
